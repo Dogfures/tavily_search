@@ -1,6 +1,6 @@
+streamlit
 langchain-core
 langchain-community
 tavily-python
-python-dotenv==1.0.1
 dotenv
 setuptools
