@@ -4,4 +4,4 @@ langchain
 langchain-core
 langchain-community
 tavily-python
-
+dotenv
