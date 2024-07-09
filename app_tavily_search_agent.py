@@ -1,6 +1,6 @@
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import os
-import streamlit as st # type: ignore
+import streamlit as st
 
 from langchain_openai import ChatOpenAI
 from langchain_community.agent_toolkits import SQLDatabaseToolkit
@@ -23,10 +23,10 @@ from langchain_community.tools.tavily_search import TavilySearchResults
 import time
 import llm_logic
 import init_db
-from langchain.globals import set_verbose
+#from langchain.globals import set_verbose
 
-set_verbose(True)
-load_dotenv()
+#set_verbose(True)
+#load_dotenv()
 
 st.title('🦜🔗 Tavily to search trustable infos 🚀')
 st.divider()     
