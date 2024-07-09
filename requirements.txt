@@ -3,5 +3,3 @@ langchain-core
 langchain-community
 langchain_openai
 tavily-python
-dotenv
-setuptools
