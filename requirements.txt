@@ -4,6 +4,5 @@ langchain-core
 langchain-community
 tavily-python
 python-dotenv
-distribute
 dotenv
 setuptools
