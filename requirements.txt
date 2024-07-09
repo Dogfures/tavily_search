@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-community
 tavily-python
+python-env
 python-dotenv
 dotenv
 setuptools
